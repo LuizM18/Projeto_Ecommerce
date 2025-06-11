@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook Gamer",
+    "price": 4999.99,
+    "image": "https://via.placeholder.com/200x150?text=Notebook+Gamer"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Top",
+    "price": 2499.90,
+    "image": "https://via.placeholder.com/200x150?text=Smartphone"
+  },
+  {
+    "id": 3,
+    "name": "Fone de Ouvido",
+    "price": 299.90,
+    "image": "https://via.placeholder.com/200x150?text=Fone"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 799.90,
+    "image": "https://via.placeholder.com/200x150?text=Relógio+Smart"
+  }
+]
